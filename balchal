@@ -1,0 +1,3 @@
+clear
+gcc *.c -o hell -lm
+./hell
